@@ -1,0 +1,1 @@
+This project is an iOS-style calculator built using HTML, React.js, and CSS, offering a sleek and intuitive interface. The app replicates the functionality and design of the iOS calculator, providing a smooth user experience for performing basic arithmetic operations.
